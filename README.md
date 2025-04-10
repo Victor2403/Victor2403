@@ -1,10 +1,24 @@
-## Hi there 👋
+# Victor 👋  
+**Data-Centric CS Student | Dashboard Developer | Full-Stack Learner**  
 
-I'm Victor, a Computer Science major at Loyola University of New Orleans, with a passion for Data Science and Software Development!
+**Computer Science Student @ Loyola University New Orleans | Graduating 2025**  
+*Data Engineering & Full-Stack Development Focus*
 
-- 🔭 I’m currently working on building my portfolio and showcasing my completed projects.
-- 🌱 I’m currently learning how to contribute to open source projects.
-- 🤝 I’m looking to collaborate on any Data science-related projects or anything that expands my skillset!
+## 🛠️ Current Projects & Skills
+- **Global Economic Dashboard**: Built an interactive Python dashboard with ARIMA forecasting ([GitHub](link))  
+  - Tech: Python, Dash, Plotly, Pandas, StatsModels  
+- **Web Development**: Building HTML/CSS/JS projects to expand full-stack skills  
+- **Open Source**: Contributing to Python data visualization tools  
+
+## 🔥 What I Bring to the Table
+- **Data Engineering**: API integrations, time-series forecasting, ETL pipelines  
+- **Problem Solving**: 200+ LeetCode problems (Python/Java)  
+- **Design Skills**: Created 3+ interactive web dashboards with clean UIs  
+
+## 📫 Let's Connect!
+- LinkedIn: https://www.linkedin.com/in/victor-garcia-9085b8263/ 
+- Email: victordgarcia7@gmail.com
+
 
 <!--
 **Victor2403/Victor2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
