@@ -12,7 +12,7 @@
 
 ## 🔥 What I Bring to the Table
 - **Data Engineering**: API integrations, time-series forecasting, ETL pipelines  
-- **Problem Solving**: 200+ LeetCode problems (Python/Java)  
+- **Problem Solving**: 100+ LeetCode problems (Python/SQL/C++)  
 - **Design Skills**: Created 3+ interactive web dashboards with clean UIs  
 
 ## 📫 Let's Connect!
